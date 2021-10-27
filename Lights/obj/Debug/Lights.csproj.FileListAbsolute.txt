@@ -1,0 +1,7 @@
+C:\Users\ibrah\Desktop\Lights\Lights\obj\Debug\Lights.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Lights\Lights\obj\Debug\Lights.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Lights\Lights\bin\Debug\Lights.exe.config
+C:\Users\ibrah\Desktop\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\ibrah\Desktop\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\ibrah\Desktop\Lights\Lights\obj\Debug\Lights.exe
+C:\Users\ibrah\Desktop\Lights\Lights\obj\Debug\Lights.pdb

@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\semestre1project\semestre1project\bin\Debug\semestre1project.exe.config
+C:\Users\PC\Desktop\semestre1project\semestre1project\bin\Debug\semestre1project.exe
+C:\Users\PC\Desktop\semestre1project\semestre1project\bin\Debug\semestre1project.pdb
+C:\Users\PC\Desktop\semestre1project\semestre1project\obj\Debug\semestre1project.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\semestre1project\semestre1project\obj\Debug\semestre1project.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\semestre1project\semestre1project\obj\Debug\semestre1project.exe
+C:\Users\PC\Desktop\semestre1project\semestre1project\obj\Debug\semestre1project.pdb
+C:\Users\ibrah\Desktop\Lights\semestre1project\bin\Debug\semestre1project.exe.config
+C:\Users\ibrah\Desktop\Lights\semestre1project\bin\Debug\semestre1project.exe
+C:\Users\ibrah\Desktop\Lights\semestre1project\bin\Debug\semestre1project.pdb
+C:\Users\ibrah\Desktop\Lights\semestre1project\obj\Debug\semestre1project.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Lights\semestre1project\obj\Debug\semestre1project.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Lights\semestre1project\obj\Debug\semestre1project.exe
+C:\Users\ibrah\Desktop\Lights\semestre1project\obj\Debug\semestre1project.pdb
