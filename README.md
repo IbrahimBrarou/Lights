@@ -21,3 +21,4 @@ If p1 is (1, 2) and p2 is (7, 8) then blue fields show a possible optimal path (
 
 
 
+<img src="Screenshot_1.png" alt="demo">
